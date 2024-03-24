@@ -1,4 +1,3 @@
-
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=oiiii+👋🤓;+me+chamo+Wesley!;" />
 </h1
@@ -26,11 +25,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wxsleyb&layout=compact&langs_count=7&theme=react" />
 
 </div>
-<br>
-  
+<br>  
   ##
 <br> 
-
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!👋🤓;" />
 </h1>
+
+![Snake gif](https://github.com/wxsleyb/wxsleyb/blob/output/github-contribution-grid-snake.svg)
