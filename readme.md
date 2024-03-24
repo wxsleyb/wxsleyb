@@ -25,4 +25,4 @@
 
 <br> 
 
-![Snake gif](https://raw.githubusercontent.com/wxsleyb/wxsleyb/output/github-contribution-grid-snake.gif)
+![Snake gif](https://raw.githubusercontent.com/wxsleyb/wxsleyb/output/github-contribution-grid-snake.svg)
