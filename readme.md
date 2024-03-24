@@ -1,3 +1,24 @@
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=oiiii+👋🤓;+me+chamo+Wesley!;" />
+</h1
+
+
+<div  align="center" >
+  - 🔭 Atualmente estagiando na empresa PRODERJ💻
+<br>
+- 📚 Estudando React e Python 📚
+</div>
+
+<h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
+<br>
+
+<div align="center" >
+  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,javascript,react,nodejs,git,python,cpp,php,java,github,gitlab,postgres,postman" />
+</div> 
+
+
+
 <br>
 <div align="center" display="inline-block">
   <a href="https://github.com/wxsleyb">
@@ -7,22 +28,9 @@
 </div>
 <br>
   
-<div align="center"> 
-  <img  alt="wes-HTML" height="25" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img  alt="wes-CSS" height="25" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img  alt="wes-Js" height="25" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img  alt="wes-React" height="25" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="wes-Node.js" height="25" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">  
-  <img alt="wes-git" height="25" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
-  <img alt="wes-Python" height="25" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="wes-SQL" height="25" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img alt="wes-C++" height="25" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img alt="wes-PHP" height="25" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img alt="wes-Java" height="25" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
-  
   ##
-
 <br> 
 
-![Snake gif](https://raw.githubusercontent.com/wxsleyb/wxsleyb/output/github-contribution-grid-snake.svg)
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!👋🤓;" />
+</h1>
