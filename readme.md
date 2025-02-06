@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=oiiii+👋🤓;+me+chamo+Wesley!;" />
 </h1
 <div  align="center" >
-  - 🔭 Atualmente estagiando na empresa PRODERJ💻
+  - 🔭 Atualmente estagiando na empresa CEPEL como Suporte Técnico💻
 <br>
 - 📚 Estudando React e Python 📚
 </div>
